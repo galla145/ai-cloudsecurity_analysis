@@ -1,0 +1,101 @@
+antecedent,consequent,confidence,lift,support
+"['Flow IAT Max_bin_2', 'Bwd IAT Max_bin_2', 'Fwd IAT Min_bin_2', 'Flow Duration_bin_2', 'Fwd IAT Max_bin_1', 'Fwd IAT Std_bin_1']",['Bwd IAT Total_bin_2'],1.0,3.0063511649414734,0.012892713930483593
+"['Flow IAT Max_bin_2', 'Fwd IAT Total_bin_2', 'Bwd IAT Max_bin_1']",['Fwd IAT Max_bin_2'],1.0,2.9644214965218403,0.06278862493719457
+"['Flow Duration_bin_0', 'Fwd IAT Min_bin_2', 'Fwd IAT Max_bin_1']",['Fwd IAT Total_bin_1'],1.0,2.755156721344721,0.06420194704822496
+"['Flow IAT Max_bin_2', 'Fwd IAT Total_bin_2', 'Fwd IAT Mean_bin_2', 'Fwd IAT Min_bin_1', 'Bwd IAT Mean_bin_1', 'Bwd IAT Total_bin_1']",['Fwd IAT Std_bin_2'],1.0,2.9707945660660786,0.024293698975591492
+"['Fwd IAT Total_bin_2', 'Fwd IAT Std_bin_2', 'Flow Duration_bin_2', 'Fwd IAT Mean_bin_2', 'Bwd IAT Max_bin_1']",['Fwd IAT Max_bin_2'],1.0,2.9644214965218403,0.054211883906769544
+"['Bwd IAT Total_bin_2', 'Bwd IAT Mean_bin_2', 'Flow IAT Max_bin_2', 'Fwd IAT Min_bin_2', 'Fwd IAT Mean_bin_1']",['Bwd IAT Max_bin_2'],1.0,2.98520167376808,0.01438444281585929
+"['Fwd IAT Total_bin_0', 'Fwd IAT Max_bin_0', 'Flow IAT Max_bin_0', 'Fwd IAT Min_bin_1', 'Bwd IAT Mean_bin_1', 'Bwd IAT Total_bin_1']",['Flow Duration_bin_0'],1.0,3.0579931225908576,0.03023821258156705
+"['Flow IAT Max_bin_2', 'Fwd IAT Total_bin_2', 'Fwd IAT Std_bin_2', 'Flow Duration_bin_2', 'Fwd IAT Mean_bin_2', 'Fwd IAT Min_bin_1', 'Bwd IAT Max_bin_1', 'Bwd IAT Total_bin_1']",['Fwd IAT Max_bin_2'],1.0,2.9644214965218403,0.02377445411283535
+"['Bwd IAT Total_bin_2', 'Bwd IAT Mean_bin_2', 'Flow IAT Max_bin_2', 'Bwd IAT Max_bin_2', 'Fwd IAT Max_bin_2', 'Fwd IAT Mean_bin_2', 'Fwd IAT Std_bin_1']",['Fwd IAT Min_bin_2'],1.0,2.9497855910583093,0.01841799131444957
+"['Flow IAT Max_bin_2', 'Fwd IAT Std_bin_2', 'Fwd IAT Mean_bin_2', 'Fwd IAT Min_bin_1', 'Bwd IAT Max_bin_1', 'Bwd IAT Total_bin_1']",['Fwd IAT Max_bin_2'],1.0,2.9644214965218403,0.02395847001180902
+"['Flow Duration_bin_0', 'Fwd IAT Min_bin_2', 'Fwd IAT Max_bin_1']",['Fwd IAT Mean_bin_1'],1.0,2.8304002192051323,0.06420194704822496
+"['Bwd IAT Total_bin_2', 'Fwd IAT Max_bin_2', 'Fwd IAT Min_bin_2', 'Flow Duration_bin_2', 'Fwd IAT Std_bin_1']",['Bwd IAT Max_bin_2'],1.0,2.98520167376808,0.0184723960150157
+"['Flow Duration_bin_0', 'Fwd IAT Min_bin_2', 'Fwd IAT Total_bin_1', 'Bwd IAT Max_bin_1']",['Bwd IAT Mean_bin_1'],1.0,1.5004318616026115,0.06420194704822496
+"['Flow IAT Max_bin_2', 'Fwd IAT Total_bin_2', 'Fwd IAT Max_bin_2', 'Flow Duration_bin_2', 'Fwd IAT Mean_bin_2', 'Fwd IAT Min_bin_1', 'Bwd IAT Mean_bin_1', 'Bwd IAT Total_bin_1']",['Fwd IAT Std_bin_2'],1.0,2.9707945660660786,0.024197690680474792
+"['Flow Duration_bin_0', 'Fwd IAT Min_bin_2', 'Fwd IAT Max_bin_1']",['Fwd IAT Std_bin_1'],1.0,1.5074095581642024,0.06420194704822496
+"['Flow Duration_bin_1', 'Fwd IAT Mean_bin_2', 'Fwd IAT Std_bin_1', 'Bwd IAT Mean_bin_1']",['Bwd IAT Total_bin_1'],1.0,1.4984172349655305,0.01003606711619884
+"['Flow Duration_bin_0', 'Fwd IAT Min_bin_2', 'Fwd IAT Max_bin_1', 'Bwd IAT Mean_bin_1']",['Bwd IAT Total_bin_1'],1.0,1.4984172349655305,0.06420194704822496
+"['Fwd IAT Total_bin_2', 'Fwd IAT Std_bin_2', 'Flow Duration_bin_2', 'Fwd IAT Mean_bin_2', 'Fwd IAT Min_bin_1', 'Bwd IAT Max_bin_1', 'Bwd IAT Mean_bin_1', 'Bwd IAT Total_bin_1']",['Fwd IAT Max_bin_2'],1.0,2.9644214965218403,0.023728450138091932
+"['Flow IAT Max_bin_2', 'Bwd IAT Max_bin_2', 'Flow Duration_bin_2', 'Fwd IAT Mean_bin_1', 'Fwd IAT Total_bin_1']",['Bwd IAT Total_bin_2'],1.0,3.0063511649414734,0.016135794132613058
+"['Bwd IAT Total_bin_2', 'Flow Duration_bin_1', 'Bwd IAT Mean_bin_2', 'Fwd IAT Total_bin_2', 'Fwd IAT Max_bin_2', 'Flow IAT Max_bin_1']",['Bwd IAT Max_bin_2'],1.0,2.98520167376808,0.014480051076413002
+"['Bwd IAT Mean_bin_2', 'Flow IAT Max_bin_2', 'Fwd IAT Min_bin_2', 'Flow Duration_bin_2', 'Fwd IAT Mean_bin_1', 'Fwd IAT Std_bin_1']",['Bwd IAT Total_bin_2'],1.0,3.0063511649414734,0.012471477535659081
+"['Bwd IAT Mean_bin_2', 'Flow IAT Max_bin_2', 'Bwd IAT Max_bin_2', 'Fwd IAT Min_bin_2', 'Flow Duration_bin_2', 'Fwd IAT Mean_bin_1', 'Fwd IAT Max_bin_1', 'Fwd IAT Total_bin_1', 'Fwd IAT Std_bin_1']",['Bwd IAT Total_bin_2'],1.0,3.0063511649414734,0.012358267754333975
+"['Flow Duration_bin_0', 'Fwd IAT Min_bin_2', 'Fwd IAT Max_bin_1']",['Bwd IAT Max_bin_1'],1.0,1.5037271594184765,0.06420194704822496
+"['Fwd IAT Max_bin_0', 'Fwd IAT Mean_bin_0', 'Flow Duration_bin_1', 'Fwd IAT Min_bin_1', 'Fwd IAT Std_bin_1', 'Bwd IAT Max_bin_1']",['Bwd IAT Total_bin_1'],1.0,1.4984172349655305,0.021416250364031452
+"['Flow Duration_bin_0', 'Flow IAT Max_bin_0', 'Fwd IAT Min_bin_2', 'Fwd IAT Mean_bin_1', 'Fwd IAT Max_bin_1', 'Fwd IAT Total_bin_1']",['Bwd IAT Total_bin_1'],1.0,1.4984172349655305,0.0639539256191735
+"['Fwd IAT Total_bin_0', 'Fwd IAT Max_bin_0', 'Flow IAT Max_bin_0', 'Fwd IAT Min_bin_1', 'Bwd IAT Max_bin_1']",['Bwd IAT Total_bin_1'],1.0,1.4984172349655305,0.03023821258156705
+"['Flow IAT Max_bin_2', 'Bwd IAT Max_bin_2', 'Flow Duration_bin_2', 'Fwd IAT Mean_bin_1', 'Fwd IAT Total_bin_1']",['Bwd IAT Mean_bin_2'],1.0,2.99827404433751,0.016135794132613058
+"['Bwd IAT Total_bin_2', 'Bwd IAT Mean_bin_2', 'Flow IAT Max_bin_2', 'Fwd IAT Mean_bin_1', 'Fwd IAT Max_bin_1']",['Bwd IAT Max_bin_2'],1.0,2.98520167376808,0.017119079088433242
+"['Flow Duration_bin_0', 'Fwd IAT Min_bin_2', 'Fwd IAT Max_bin_1', 'Fwd IAT Std_bin_1', 'Bwd IAT Total_bin_1']",['Bwd IAT Mean_bin_1'],1.0,1.5004318616026115,0.06420194704822496
+"['Fwd IAT Total_bin_0', 'Fwd IAT Max_bin_0', 'Flow IAT Max_bin_0', 'Fwd IAT Min_bin_1', 'Bwd IAT Max_bin_1']",['Bwd IAT Mean_bin_1'],1.0,1.5004318616026115,0.03023821258156705
+"['Fwd IAT Min_bin_0', 'Fwd IAT Total_bin_0', 'Fwd IAT Max_bin_0', 'Flow IAT Max_bin_0', 'Bwd IAT Max_bin_1', 'Bwd IAT Mean_bin_1', 'Bwd IAT Total_bin_1']",['Fwd IAT Std_bin_1'],1.0,1.5074095581642024,0.12557164939050733
+"['Fwd IAT Min_bin_0', 'Flow IAT Max_bin_0', 'Bwd IAT Mean_bin_1', 'Bwd IAT Total_bin_1']",['Fwd IAT Std_bin_1'],1.0,1.5074095581642024,0.12652253154672563
+"['Fwd IAT Total_bin_0', 'Fwd IAT Mean_bin_0', 'Flow Duration_bin_1', 'Fwd IAT Min_bin_1', 'Fwd IAT Std_bin_1', 'Bwd IAT Total_bin_1']",['Fwd IAT Max_bin_0'],1.0,3.323968682850031,0.02141305008752756
+"['Fwd IAT Total_bin_0', 'Fwd IAT Max_bin_0', 'Flow IAT Max_bin_0', 'Fwd IAT Min_bin_1', 'Bwd IAT Max_bin_1']",['Fwd IAT Std_bin_1'],1.0,1.5074095581642024,0.03023821258156705
+"['Fwd IAT Total_bin_0', 'Fwd IAT Mean_bin_0', 'Flow Duration_bin_0', 'Fwd IAT Min_bin_1', 'Fwd IAT Std_bin_1']",['Bwd IAT Total_bin_1'],1.0,1.4984172349655305,0.030386225369871955
+"['Fwd IAT Total_bin_0', 'Fwd IAT Max_bin_0', 'Flow IAT Max_bin_0', 'Fwd IAT Min_bin_1', 'Bwd IAT Max_bin_1']",['Flow Duration_bin_0'],1.0,3.0579931225908576,0.03023821258156705
+"['Bwd IAT Mean_bin_2', 'Flow IAT Max_bin_2', 'Fwd IAT Min_bin_2', 'Flow Duration_bin_2', 'Fwd IAT Mean_bin_1', 'Fwd IAT Std_bin_1']",['Bwd IAT Max_bin_2'],1.0,2.98520167376808,0.012471477535659081
+"['Flow IAT Max_bin_2', 'Fwd IAT Total_bin_2', 'Fwd IAT Mean_bin_2', 'Fwd IAT Min_bin_1', 'Bwd IAT Mean_bin_1', 'Bwd IAT Total_bin_1']",['Fwd IAT Max_bin_2'],1.0,2.9644214965218403,0.024293698975591492
+"['Flow Duration_bin_0', 'Fwd IAT Min_bin_2', 'Fwd IAT Max_bin_1']",['Bwd IAT Mean_bin_1'],1.0,1.5004318616026115,0.06420194704822496
+"['Fwd IAT Total_bin_0', 'Fwd IAT Max_bin_0', 'Flow IAT Max_bin_0', 'Fwd IAT Min_bin_1', 'Bwd IAT Max_bin_1']",['Fwd IAT Mean_bin_0'],1.0,3.271283500837521,0.03023821258156705
+"['Flow Duration_bin_0', 'Flow IAT Max_bin_0', 'Fwd IAT Min_bin_2', 'Fwd IAT Total_bin_1', 'Fwd IAT Std_bin_1', 'Bwd IAT Max_bin_1', 'Bwd IAT Mean_bin_1']",['Fwd IAT Mean_bin_1'],1.0,2.8304002192051323,0.0639539256191735
+"['Fwd IAT Total_bin_0', 'Flow Duration_bin_1', 'Flow IAT Max_bin_1', 'Fwd IAT Min_bin_1', 'Bwd IAT Max_bin_1', 'Bwd IAT Mean_bin_1']",['Fwd IAT Std_bin_1'],1.0,1.5074095581642024,0.021144226861200807
+"['Fwd IAT Total_bin_0', 'Fwd IAT Mean_bin_0', 'Flow Duration_bin_0', 'Fwd IAT Min_bin_1', 'Fwd IAT Std_bin_1']",['Bwd IAT Mean_bin_1'],1.0,1.5004318616026115,0.030386225369871955
+"['Fwd IAT Min_bin_0', 'Fwd IAT Total_bin_0', 'Fwd IAT Mean_bin_0', 'Flow Duration_bin_0', 'Flow IAT Max_bin_0', 'Bwd IAT Total_bin_1']",['Bwd IAT Mean_bin_1'],1.0,1.5004318616026115,0.12556484880293659
+"['Flow IAT Max_bin_0', 'Fwd IAT Min_bin_2', 'Fwd IAT Mean_bin_1', 'Fwd IAT Std_bin_1']",['Bwd IAT Max_bin_1'],1.0,1.5037271594184765,0.06425835192160603
+"['Fwd IAT Total_bin_0', 'Flow Duration_bin_1', 'Flow IAT Max_bin_1', 'Fwd IAT Min_bin_1', 'Bwd IAT Max_bin_1', 'Bwd IAT Mean_bin_1']",['Fwd IAT Max_bin_0'],1.0,3.323968682850031,0.021144226861200807
+"['Flow IAT Max_bin_0', 'Fwd IAT Min_bin_2', 'Fwd IAT Mean_bin_1']",['Fwd IAT Std_bin_1'],1.0,1.5074095581642024,0.06425835192160603
+"['Fwd IAT Min_bin_0', 'Fwd IAT Total_bin_0', 'Flow Duration_bin_0', 'Bwd IAT Max_bin_1', 'Bwd IAT Total_bin_1']",['Fwd IAT Std_bin_1'],1.0,1.5074095581642024,0.12571286159124148
+"['Fwd IAT Total_bin_0', 'Fwd IAT Max_bin_0', 'Flow IAT Max_bin_0', 'Bwd IAT Max_bin_1', 'Bwd IAT Mean_bin_1', 'Bwd IAT Total_bin_1']",['Fwd IAT Mean_bin_0'],1.0,3.271283500837521,0.1558098619720744
+"['Fwd IAT Min_bin_0', 'Fwd IAT Total_bin_0', 'Flow Duration_bin_0', 'Bwd IAT Max_bin_1', 'Bwd IAT Total_bin_1']",['Fwd IAT Mean_bin_0'],1.0,3.271283500837521,0.12571286159124148
+"['Fwd IAT Total_bin_0', 'Fwd IAT Mean_bin_0', 'Flow Duration_bin_0', 'Fwd IAT Min_bin_1', 'Fwd IAT Std_bin_1']",['Bwd IAT Max_bin_1'],1.0,1.5037271594184765,0.030386225369871955
+"['Fwd IAT Min_bin_0', 'Fwd IAT Total_bin_0', 'Flow Duration_bin_0', 'Bwd IAT Max_bin_1', 'Bwd IAT Total_bin_1']",['Fwd IAT Max_bin_0'],1.0,3.323968682850031,0.12571286159124148
+"['Bwd IAT Total_bin_2', 'Flow Duration_bin_1', 'Bwd IAT Mean_bin_2', 'Fwd IAT Std_bin_2', 'Fwd IAT Min_bin_2']",['Bwd IAT Max_bin_2'],1.0,2.98520167376808,0.01684905575841753
+"['Fwd IAT Total_bin_2', 'Fwd IAT Min_bin_2', 'Fwd IAT Mean_bin_2', 'Fwd IAT Std_bin_1', 'Bwd IAT Max_bin_1', 'Bwd IAT Mean_bin_1']",['Bwd IAT Total_bin_1'],1.0,1.4984172349655305,0.010258086298656204
+"['Fwd IAT Min_bin_0', 'Fwd IAT Total_bin_0', 'Flow Duration_bin_1', 'Fwd IAT Std_bin_1', 'Bwd IAT Mean_bin_1', 'Bwd IAT Total_bin_1']",['Fwd IAT Max_bin_0'],1.0,3.323968682850031,0.1119096689954012
+"['Bwd IAT Total_bin_2', 'Flow Duration_bin_1', 'Fwd IAT Total_bin_2', 'Flow IAT Max_bin_1', 'Fwd IAT Min_bin_1']",['Bwd IAT Max_bin_2'],1.0,2.98520167376808,0.01111336019432079
+"['Bwd IAT Total_bin_2', 'Flow IAT Max_bin_2', 'Fwd IAT Min_bin_2', 'Fwd IAT Std_bin_1']",['Bwd IAT Max_bin_2'],1.0,2.98520167376808,0.03180434789565818
+"['Fwd IAT Mean_bin_0', 'Flow IAT Max_bin_0', 'Fwd IAT Min_bin_1', 'Fwd IAT Std_bin_1', 'Bwd IAT Mean_bin_1']",['Bwd IAT Total_bin_1'],1.0,1.4984172349655305,0.03471619947963504
+"['Fwd IAT Total_bin_0', 'Fwd IAT Mean_bin_0', 'Flow Duration_bin_0', 'Fwd IAT Min_bin_1', 'Fwd IAT Std_bin_1']",['Fwd IAT Max_bin_0'],1.0,3.323968682850031,0.030386225369871955
+"['Fwd IAT Mean_bin_0', 'Flow IAT Max_bin_0', 'Fwd IAT Min_bin_1', 'Fwd IAT Std_bin_1', 'Bwd IAT Mean_bin_1']",['Bwd IAT Max_bin_1'],1.0,1.5037271594184765,0.03471619947963504
+"['Fwd IAT Min_bin_0', 'Fwd IAT Total_bin_0', 'Fwd IAT Mean_bin_0', 'Flow Duration_bin_0', 'Bwd IAT Max_bin_1', 'Bwd IAT Mean_bin_1']",['Bwd IAT Total_bin_1'],1.0,1.4984172349655305,0.12571286159124148
+"['Fwd IAT Mean_bin_0', 'Flow IAT Max_bin_0', 'Fwd IAT Min_bin_1', 'Fwd IAT Std_bin_1', 'Bwd IAT Mean_bin_1']",['Flow Duration_bin_0'],1.0,3.0579931225908576,0.03471619947963504
+"['Flow Duration_bin_0', 'Fwd IAT Total_bin_1', 'Fwd IAT Std_bin_1', 'Bwd IAT Mean_bin_1', 'Bwd IAT Total_bin_1']",['Bwd IAT Max_bin_1'],1.0,1.5037271594184765,0.17091276686305698
+"['Flow Duration_bin_0', 'Flow IAT Max_bin_0', 'Fwd IAT Max_bin_1', 'Fwd IAT Min_bin_1', 'Fwd IAT Std_bin_1', 'Bwd IAT Max_bin_1']",['Bwd IAT Total_bin_1'],1.0,1.4984172349655305,0.10527589583740035
+"['Flow IAT Max_bin_2', 'Bwd IAT Max_bin_2', 'Fwd IAT Min_bin_2', 'Flow Duration_bin_2', 'Fwd IAT Max_bin_1', 'Fwd IAT Std_bin_1']",['Bwd IAT Mean_bin_2'],1.0,2.99827404433751,0.012892713930483593
+"['Flow Duration_bin_0', 'Flow IAT Max_bin_0', 'Fwd IAT Max_bin_1', 'Fwd IAT Min_bin_1', 'Fwd IAT Std_bin_1', 'Bwd IAT Max_bin_1']",['Bwd IAT Mean_bin_1'],1.0,1.5004318616026115,0.10527589583740035
+"['Fwd IAT Total_bin_0', 'Fwd IAT Mean_bin_0', 'Flow Duration_bin_1', 'Flow IAT Max_bin_1', 'Fwd IAT Min_bin_1']",['Fwd IAT Std_bin_1'],1.0,1.5074095581642024,0.021157027967216368
+"['Flow Duration_bin_0', 'Flow IAT Max_bin_0', 'Fwd IAT Max_bin_1', 'Fwd IAT Min_bin_1', 'Fwd IAT Std_bin_1', 'Bwd IAT Max_bin_1']",['Fwd IAT Total_bin_1'],1.0,2.755156721344721,0.10527589583740035
+"['Bwd IAT Mean_bin_2', 'Flow IAT Max_bin_2', 'Bwd IAT Max_bin_2', 'Fwd IAT Mean_bin_1', 'Fwd IAT Std_bin_1']",['Bwd IAT Total_bin_2'],1.0,3.0063511649414734,0.01579576475407475
+"['Flow Duration_bin_0', 'Fwd IAT Mean_bin_1', 'Fwd IAT Total_bin_1', 'Fwd IAT Min_bin_1', 'Fwd IAT Std_bin_1', 'Bwd IAT Mean_bin_1']",['Bwd IAT Total_bin_1'],1.0,1.4984172349655305,0.10132995490810406
+"['Flow IAT Max_bin_2', 'Fwd IAT Total_bin_2', 'Flow Duration_bin_2', 'Fwd IAT Min_bin_1', 'Bwd IAT Max_bin_1', 'Bwd IAT Mean_bin_1']",['Fwd IAT Max_bin_2'],1.0,2.9644214965218403,0.023723649723336095
+"['Flow Duration_bin_0', 'Fwd IAT Mean_bin_1', 'Fwd IAT Total_bin_1', 'Fwd IAT Min_bin_1', 'Fwd IAT Std_bin_1', 'Bwd IAT Mean_bin_1']",['Bwd IAT Max_bin_1'],1.0,1.5037271594184765,0.10132995490810406
+"['Flow IAT Max_bin_0', 'Fwd IAT Max_bin_1', 'Fwd IAT Total_bin_1', 'Fwd IAT Min_bin_1', 'Bwd IAT Total_bin_1']",['Fwd IAT Std_bin_1'],1.0,1.5074095581642024,0.10601916005542879
+"['Flow Duration_bin_0', 'Fwd IAT Mean_bin_1', 'Fwd IAT Total_bin_1', 'Fwd IAT Min_bin_1', 'Fwd IAT Std_bin_1', 'Bwd IAT Mean_bin_1']",['Fwd IAT Max_bin_1'],1.0,2.7637986277106914,0.10132995490810406
+"['Fwd IAT Total_bin_0', 'Fwd IAT Mean_bin_0', 'Flow Duration_bin_1', 'Flow IAT Max_bin_1', 'Fwd IAT Min_bin_1']",['Fwd IAT Max_bin_0'],1.0,3.323968682850031,0.021157027967216368
+"['Fwd IAT Max_bin_0', 'Flow Duration_bin_0', 'Fwd IAT Min_bin_1', 'Fwd IAT Std_bin_1']",['Bwd IAT Total_bin_1'],1.0,1.4984172349655305,0.030617445347278005
+"['Bwd IAT Mean_bin_2', 'Flow Duration_bin_2', 'Fwd IAT Mean_bin_1', 'Fwd IAT Max_bin_1', 'Fwd IAT Total_bin_1']",['Bwd IAT Total_bin_2'],1.0,3.0063511649414734,0.016087389950491724
+"['Fwd IAT Max_bin_0', 'Flow Duration_bin_0', 'Fwd IAT Min_bin_1', 'Fwd IAT Std_bin_1']",['Bwd IAT Mean_bin_1'],1.0,1.5004318616026115,0.030617445347278005
+"['Fwd IAT Min_bin_0', 'Fwd IAT Max_bin_0', 'Flow Duration_bin_1', 'Bwd IAT Mean_bin_1']",['Fwd IAT Std_bin_1'],1.0,1.5074095581642024,0.11191806972122391
+"['Fwd IAT Max_bin_0', 'Flow Duration_bin_0', 'Fwd IAT Min_bin_1', 'Fwd IAT Std_bin_1']",['Bwd IAT Max_bin_1'],1.0,1.5037271594184765,0.030617445347278005
+"['Flow Duration_bin_0', 'Fwd IAT Min_bin_2', 'Fwd IAT Max_bin_1', 'Bwd IAT Mean_bin_1']",['Bwd IAT Max_bin_1'],1.0,1.5037271594184765,0.06420194704822496
+"['Fwd IAT Max_bin_0', 'Flow Duration_bin_0', 'Fwd IAT Min_bin_1', 'Fwd IAT Std_bin_1']",['Fwd IAT Mean_bin_0'],1.0,3.271283500837521,0.030617445347278005
+"['Fwd IAT Min_bin_0', 'Fwd IAT Max_bin_0', 'Fwd IAT Mean_bin_0', 'Flow Duration_bin_0', 'Flow IAT Max_bin_0', 'Fwd IAT Std_bin_1', 'Bwd IAT Max_bin_1']",['Bwd IAT Total_bin_1'],1.0,1.4984172349655305,0.12557965008176705
+"['Fwd IAT Min_bin_0', 'Fwd IAT Total_bin_0', 'Fwd IAT Max_bin_0', 'Bwd IAT Max_bin_1', 'Bwd IAT Total_bin_1']",['Fwd IAT Std_bin_1'],1.0,1.5074095581642024,0.2403667676887283
+"['Flow Duration_bin_0', 'Fwd IAT Min_bin_2', 'Fwd IAT Max_bin_1', 'Fwd IAT Std_bin_1', 'Bwd IAT Total_bin_1']",['Fwd IAT Total_bin_1'],1.0,2.755156721344721,0.06420194704822496
+"['Fwd IAT Min_bin_0', 'Fwd IAT Total_bin_0', 'Fwd IAT Max_bin_0', 'Bwd IAT Max_bin_1', 'Bwd IAT Total_bin_1']",['Fwd IAT Mean_bin_0'],1.0,3.271283500837521,0.2403667676887283
+"['Fwd IAT Min_bin_0', 'Fwd IAT Max_bin_0', 'Flow Duration_bin_1', 'Bwd IAT Mean_bin_1']",['Fwd IAT Mean_bin_0'],1.0,3.271283500837521,0.11191806972122391
+"['Flow IAT Max_bin_0', 'Fwd IAT Total_bin_1', 'Bwd IAT Mean_bin_1']",['Bwd IAT Max_bin_1'],1.0,1.5037271594184765,0.1714608142143481
+"['Bwd IAT Total_bin_2', 'Flow IAT Max_bin_2', 'Fwd IAT Min_bin_2', 'Fwd IAT Std_bin_1']",['Bwd IAT Mean_bin_2'],1.0,2.99827404433751,0.03180434789565818
+"['Flow IAT Max_bin_0', 'Fwd IAT Total_bin_1', 'Bwd IAT Mean_bin_1']",['Fwd IAT Std_bin_1'],1.0,1.5074095581642024,0.1714608142143481
+"['Fwd IAT Min_bin_0', 'Fwd IAT Max_bin_0', 'Fwd IAT Mean_bin_0', 'Flow Duration_bin_0', 'Flow IAT Max_bin_0', 'Fwd IAT Std_bin_1', 'Bwd IAT Max_bin_1']",['Bwd IAT Mean_bin_1'],1.0,1.5004318616026115,0.12557965008176705
+"['Fwd IAT Min_bin_0', 'Fwd IAT Mean_bin_0', 'Flow IAT Max_bin_1']",['Fwd IAT Std_bin_1'],1.0,1.5074095581642024,0.11196287359227837
+"['Flow Duration_bin_0', 'Fwd IAT Min_bin_2', 'Fwd IAT Max_bin_1', 'Fwd IAT Std_bin_1', 'Bwd IAT Total_bin_1']",['Fwd IAT Mean_bin_1'],1.0,2.8304002192051323,0.06420194704822496
+"['Flow Duration_bin_0', 'Flow IAT Max_bin_0', 'Fwd IAT Total_bin_1', 'Fwd IAT Min_bin_1', 'Bwd IAT Mean_bin_1', 'Bwd IAT Total_bin_1']",['Bwd IAT Max_bin_1'],1.0,1.5037271594184765,0.10550671578024341
+"['Fwd IAT Total_bin_0', 'Fwd IAT Max_bin_0', 'Flow Duration_bin_1', 'Bwd IAT Max_bin_1', 'Bwd IAT Total_bin_1']",['Fwd IAT Std_bin_1'],1.0,1.5074095581642024,0.13352593664092577
+"['Flow Duration_bin_0', 'Flow IAT Max_bin_0', 'Fwd IAT Total_bin_1', 'Fwd IAT Min_bin_1', 'Bwd IAT Mean_bin_1', 'Bwd IAT Total_bin_1']",['Fwd IAT Std_bin_1'],1.0,1.5074095581642024,0.10550671578024341
+"['Fwd IAT Std_bin_2', 'Flow Duration_bin_2', 'Fwd IAT Mean_bin_2', 'Bwd IAT Max_bin_1', 'Bwd IAT Total_bin_1']",['Fwd IAT Max_bin_2'],1.0,2.9644214965218403,0.05426668864189866
+"['Fwd IAT Total_bin_0', 'Fwd IAT Mean_bin_0', 'Flow Duration_bin_0', 'Fwd IAT Min_bin_1', 'Fwd IAT Std_bin_1', 'Bwd IAT Max_bin_1', 'Bwd IAT Total_bin_1']",['Bwd IAT Mean_bin_1'],1.0,1.5004318616026115,0.030386225369871955
+"['Fwd IAT Min_bin_0', 'Fwd IAT Max_bin_0', 'Fwd IAT Mean_bin_0', 'Flow Duration_bin_0', 'Flow IAT Max_bin_0']",['Bwd IAT Mean_bin_1'],1.0,1.5004318616026115,0.12557965008176705
+"['Flow Duration_bin_1', 'Fwd IAT Mean_bin_2', 'Fwd IAT Std_bin_1', 'Bwd IAT Mean_bin_1']",['Bwd IAT Max_bin_1'],1.0,1.5037271594184765,0.01003606711619884
